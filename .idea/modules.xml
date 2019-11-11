@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-shiro入门（ini形式）/01-shiro入门（ini形式）.iml" filepath="$PROJECT_DIR$/01-shiro入门（ini形式）/01-shiro入门（ini形式）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-shiro入门（realm形式）/02-shiro入门（realm形式）.iml" filepath="$PROJECT_DIR$/02-shiro入门（realm形式）/02-shiro入门（realm形式）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-shiro(加密MD5)/03-shiro(加密MD5).iml" filepath="$PROJECT_DIR$/03-shiro(加密MD5)/03-shiro(加密MD5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-shiro（MD5登录）/04-shiro（MD5登录）.iml" filepath="$PROJECT_DIR$/04-shiro（MD5登录）/04-shiro（MD5登录）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-shiro授权（realm形式）/05-shiro授权（realm形式）.iml" filepath="$PROJECT_DIR$/05-shiro授权（realm形式）/05-shiro授权（realm形式）.iml" />
+    </modules>
+  </component>
+</project>

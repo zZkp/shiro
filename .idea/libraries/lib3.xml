@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/shiro-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05-shiro授权（realm形式）/lib/junit-4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
